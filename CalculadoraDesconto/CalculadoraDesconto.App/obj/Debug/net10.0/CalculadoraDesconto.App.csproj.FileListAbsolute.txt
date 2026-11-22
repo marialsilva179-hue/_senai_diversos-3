@@ -12,3 +12,4 @@ C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\Calculador
 C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.pdb
 C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.genruntimeconfig.cache
 C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\ref\CalculadoraDesconto.App.dll
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.sourcelink.json
