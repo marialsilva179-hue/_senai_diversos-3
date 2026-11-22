@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.exe
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.deps.json
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.dll
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.pdb
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.dll
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\refint\CalculadoraDesconto.App.dll
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.pdb
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 3\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\ref\CalculadoraDesconto.App.dll
